@@ -4,9 +4,9 @@ Aspiring web developer from Hyderabad, India. I build full-stack projects with R
 
 ## 🛠 Tech
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
@@ -25,4 +25,5 @@ Aspiring web developer from Hyderabad, India. I build full-stack projects with R
 
 ## 📫 Contact
 
+🌐 Portfolio: [s-akhil-portfolio.vercel.app](https://s-akhil-portfolio.vercel.app)
 - Email: s.akhil1929@gmail.com
