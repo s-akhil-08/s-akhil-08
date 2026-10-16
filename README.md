@@ -26,4 +26,4 @@ Aspiring web developer from Hyderabad, India. I build full-stack projects with R
 ## 📫 Contact
 
 🌐 Portfolio: [s-akhil-portfolio.vercel.app](https://s-akhil-portfolio.vercel.app)
-- Email: s.akhil1929@gmail.com
+- ✉️ Email: [s.akhil1929@gmail.com](mailto:s.akhil1929@gmail.com)
