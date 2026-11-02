@@ -17,7 +17,7 @@ Aspiring web developer from Hyderabad, India. I build full-stack projects with R
 | Project | What it is | Links |
 | :--- | :--- | :--- |
 | **Silk & Loom Saree Store** | E-commerce storefront with OTP login, video consultations, WhatsApp inquiries, and a read-only demo admin | [Live](https://silk-and-loom.vercel.app) · [Frontend](https://github.com/s-akhil-08/saree-store-frontend) · [Backend](https://github.com/s-akhil-08/saree-store-backend) |
-| **CADverse** | CAD portfolio and project tracking platform with real-time status updates and role-based staff permissions | [Live](https://cadverse-frontend.vercel.app) · [Frontend](https://github.com/s-akhil-08/cadverse-frontend) · [Backend](https://github.com/s-akhil-08/cadverse-platform-backend) |
+| **CADverse** | CAD portfolio and project tracking platform with real-time status updates and role-based staff permissions | [Live](https://cadverse.vercel.app) · [Frontend](https://github.com/s-akhil-08/cadverse-frontend) · [Backend](https://github.com/s-akhil-08/cadverse-platform-backend) |
 | **Silk & Loom Connect** | Link-in-bio page with a dynamic QR code generator and WebGL background | [Live](https://silk-loom-connect.vercel.app) · [Code](https://github.com/s-akhil-08/silk-loom-connect) |
 | **OTP & Email Service** | Django microservice for email OTP, password recovery, and notifications | [Code](https://github.com/s-akhil-08/otp-email-service) |
 
