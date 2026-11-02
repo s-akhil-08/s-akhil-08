@@ -11,6 +11,7 @@ Aspiring web developer from Hyderabad, India. I build full-stack projects with R
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&labelColor=black)
 
 ## 🚀 Featured projects
 
